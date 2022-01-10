@@ -30,7 +30,7 @@ $packageArgs = @{
   # To determine checksums, you can get that from the original site if provided.
   # You can also use checksum.exe (choco install checksum) and use it
   # e.g. checksum -t sha256 -f path\to\file
-  checksum64     = ''
+  checksum64     = 'AB13DFC35C0E5A2D2C49DE9DCC48FB66E0672DB7D39C823579F44F61C8CE3924'
   checksumType64 = 'sha256' #default is checksumType
 
   # Uncomment matching EXE type (sorted by most to least common)
