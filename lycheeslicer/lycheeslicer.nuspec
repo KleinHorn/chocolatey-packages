@@ -10,7 +10,7 @@
     <authors>Mango3D</authors>
     <projectUrl>https://mango3d.io/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/KleinHorn/chocolatey-packages/158be1d5e275acee5de1723dca4f3c3b2d449b92/lycheeslicer/Icon/LycheeSlicer.png</iconUrl>
-    <copyright>2021</copyright>
+    <copyright>Copyright 2021 © Mango3D</copyright>
     <docsUrl>https://support.mango3d.io/support/home</docsUrl>
     <tags>lycheeslicer 3dprinting slicer</tags>
     <summary>A powerful and versatile slicer for Resin 3D printers, available in two flavors: FREE and PRO</summary>
