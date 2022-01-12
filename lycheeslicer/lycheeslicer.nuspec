@@ -20,7 +20,7 @@
       refined interface. It makes your 3D printing file prep a breeze. The software is consistently being developed and updated to provide you the 
       latest innovations in 3D printing, and we have dedicated tech-support team members to assist you on your 3D printing journey. So why not start today? Lychee Slicer 
       3 is available now for free!</description>
-
+    <releasenotes>https://mango3d.io/downloads/</releasenotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
