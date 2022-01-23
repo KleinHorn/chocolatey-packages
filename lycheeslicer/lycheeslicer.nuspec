@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lycheeslicer</id>
-    <version>3.6.2</version>
-    <packageSourceUrl>https://github.com/KleinHorn/chocolatey-packages/tree/master/lycheeslicer</packageSourceUrl>
+    <version>3.6.4-beta</version>
+    <packageSourceUrl>https://github.com/KleinHorn/chocolatey-packages/tree/Lychee_Beta/lycheeslicer</packageSourceUrl>
     <owners>KleinHorn</owners>
     <title>LycheeSlicer (Install)</title>
     <authors>Mango3D</authors>
@@ -13,7 +13,7 @@
     <copyright>Copyright 2021 © Mango3D</copyright>
     <docsUrl>https://support.mango3d.io/support/home</docsUrl>
     <tags>lycheeslicer 3dprinting slicer</tags>
-    <summary>A powerful and versatile slicer for Resin 3D printers, available in two flavors: FREE and PRO</summary>
+    <summary>This is the PUBLIC BETA of lycheeslicer 3.6.4-Beta.</summary>
     <description>With Lychee Slicer 3, you have the very best tool to prepare your 3D models for your Resin 3D printer. 
       Youll quickly and easily define the best orientation, create and edit supports with powerful automatic or manual support generation, 
       and preview your work before exporting to your 3D printer. Lychee Slicer 3 is easy to use and provides powerful tools in an elegant, 
