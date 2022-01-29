@@ -4,7 +4,7 @@
   <metadata>
     <id>lycheeslicer</id>
     <version>3.6.5</version>
-    <packageSourceUrl>https://github.com/KleinHorn/chocolatey-packages/Master/lycheeslicer</packageSourceUrl>
+    <packageSourceUrl>https://github.com/KleinHorn/chocolatey-packages/tree/master/lycheeslicer</packageSourceUrl>
     <owners>KleinHorn</owners>
     <title>LycheeSlicer (Install)</title>
     <authors>Mango3D</authors>
