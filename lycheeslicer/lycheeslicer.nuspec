@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lycheeslicer</id>
-    <version>3.6.5</version>
+    <version>3.6.6</version>
     <packageSourceUrl>https://github.com/KleinHorn/chocolatey-packages/tree/master/lycheeslicer</packageSourceUrl>
     <owners>KleinHorn</owners>
     <title>LycheeSlicer (Install)</title>
@@ -13,7 +13,7 @@
     <copyright>Copyright 2021 © Mango3D</copyright>
     <docsUrl>https://support.mango3d.io/support/home</docsUrl>
     <tags>lycheeslicer 3dprinting slicer</tags>
-    <summary>Stable release of 3.6.5.</summary>
+    <summary>Stable release of 3.6.6</summary>
     <description>With Lychee Slicer 3, you have the very best tool to prepare your 3D models for your Resin 3D printer. 
       Youll quickly and easily define the best orientation, create and edit supports with powerful automatic or manual support generation, 
       and preview your work before exporting to your 3D printer. Lychee Slicer 3 is easy to use and provides powerful tools in an elegant, 
