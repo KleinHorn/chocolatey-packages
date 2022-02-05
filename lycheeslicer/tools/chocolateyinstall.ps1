@@ -1,7 +1,7 @@
 
 $ErrorActionPreference = 'Stop';
 $toolsDir = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
-$url64 = 'https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-3.6.5.exe'
+$url64 = 'https://mango-lychee.nyc3.cdn.digitaloceanspaces.com/LycheeSlicer-3.6.6.exe'
 
 $packageArgs = @{
   packageName    = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName   = 'lycheeslicer*'
 
-  checksum64     = '8577B6A25BB6CB4241D263F029711CB7ECEA39C74C83CA63BCED5FD44EB6FA98'
+  checksum64     = 'FBDF05BCE51A908B7B5871745EB7BBF105F0C520113FE6396D0B29B7592B0F93'
   checksumType64 = 'sha256'
 
   silentArgs     = '/S'
